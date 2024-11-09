@@ -2,8 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Dharanya" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer" alt="Typing SVG" /></a>
 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
+
   <h3> Full Stack Developer || Passionate About End-to-End Solutions </h3>
   
   - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" align=center /></span>
@@ -30,24 +29,15 @@
 &nbsp;
 
 <br>
-### <u> Backend Development: </u>
+<u> Backend Development: </u>
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
 ![J2EE](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 &nbsp;
 <br>
-<u> Version Control and Tools: </u>
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-<br>
- <u> Operating Systems and Others: </u>
-<br>
-!
-### <u> Currently I'm learned: </u>
+
+ <u> Currently I'm learned: </u>
 <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 &nbsp;
