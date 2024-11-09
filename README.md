@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Dharanya" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer" alt="Typing SVG" /></a>
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
   <h3> Full Stack Developer || Passionate About End-to-End Solutions </h3>
@@ -85,14 +85,3 @@
 &nbsp;
 <br>
 <hr>
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-    <span style="display: inline-block;">
-        <a href="https://git.io/streak-stats" style="text-decoration: none;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=sharif-islam96403&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
-        </a>
-    </span>
-    <span style="display: inline-block; margin-left: 20px;">
-        <img alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
-    </span>
-</div>
-------
